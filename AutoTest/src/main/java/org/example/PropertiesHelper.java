@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class PropertiesHelper {
-    private static final String PROPERTIES_FILE = "src/main/resources/.editorconfig.properties";
+    private static final String PROPERTIES_FILE = "src/main/resources/.editorconfig";
     private static Properties properties;
 
     static {
